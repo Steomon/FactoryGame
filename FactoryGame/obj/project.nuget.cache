@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "teCWX5G481QtVDK5ezOlh7nhJM+EythzpMyYniN/3oihS4+XimvQ6I/rBUnrYRcJPPCc1WVJ/J5w+wUgZViFqw==",
+  "dgSpecHash": "VFJIbmqNQvdu5arbpCvHJGwp1lwIiGxAeuO6sklq6M0wwV9dPzG5mEmuYX1SbCDh9a7h7W46Zss9wNnerkY4Aw==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame.csproj",
+  "projectFilePath": "D:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame\\FactoryGame.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kjell\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+    "C:\\Users\\simon.kjellgren\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\simon.kjellgren\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

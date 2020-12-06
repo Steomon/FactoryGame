@@ -12,8 +12,6 @@ namespace FactoryGame
             int rectPosY = 0;
             int displayWidth = 1920;
             int displayHeight = 1080;
-            int gridOffsetX = 20;
-            int gridOffsetY = 80;
             int gridSizeX = 18;
             int gridSizeY = 10;
 
@@ -69,6 +67,15 @@ namespace FactoryGame
                         rectPosY++;
                     }
                 }
+                for (int x = 1; x < 19; x++)
+                {
+                    Raylib.DrawLine(x * 100, 0, x * 100, displayHeight, Color.BLACK);
+                }
+                for (int y = 1; y < 10; y++)
+                {
+                    Raylib.DrawLine(0, y * 100, displayWidth, y * 100, Color.BLACK);
+                }
+
                 Raylib.EndDrawing();
             }
 

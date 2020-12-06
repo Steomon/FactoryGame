@@ -131,23 +131,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kjell\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\simon.kjellgren\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame.csproj",
+      "projectUniqueName": "D:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame\\FactoryGame.csproj",
       "projectName": "FactoryGame",
-      "projectPath": "d:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame.csproj",
-      "packagesPath": "C:\\Users\\kjell\\.nuget\\packages\\",
-      "outputPath": "d:\\Programming\\Random\\FactoryGame\\FactoryGame\\obj\\",
+      "projectPath": "D:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame\\FactoryGame.csproj",
+      "packagesPath": "C:\\Users\\simon.kjellgren\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\Random\\FactoryGame\\FactoryGame\\FactoryGame\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kjell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\simon.kjellgren\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
